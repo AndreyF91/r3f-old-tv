@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/r3f-old-tv/static/css/main.58574854.css",
+    "main.js": "/r3f-old-tv/static/js/main.95ca2c0d.js",
+    "static/js/787.6c309f8c.chunk.js": "/r3f-old-tv/static/js/787.6c309f8c.chunk.js",
+    "static/media/fireplace_2k.hdr": "/r3f-old-tv/static/media/fireplace_2k.83782b305206835b3c92.hdr",
+    "static/media/4.mp4": "/r3f-old-tv/static/media/4.600a95779df5fa81828b.mp4",
+    "static/media/tv1.glb": "/r3f-old-tv/static/media/tv1.74703774171691a540dd.glb",
+    "static/media/2.mp4": "/r3f-old-tv/static/media/2.a32f01689547c2adcdf5.mp4",
+    "static/media/1.mp4": "/r3f-old-tv/static/media/1.1d66c13141da7c9a9345.mp4",
+    "static/media/3.mp4": "/r3f-old-tv/static/media/3.b5a2e7e125a61e4ab6ea.mp4",
+    "static/media/5.mp4": "/r3f-old-tv/static/media/5.153fc207a2d2ef43750b.mp4",
+    "index.html": "/r3f-old-tv/index.html",
+    "main.58574854.css.map": "/r3f-old-tv/static/css/main.58574854.css.map",
+    "main.95ca2c0d.js.map": "/r3f-old-tv/static/js/main.95ca2c0d.js.map",
+    "787.6c309f8c.chunk.js.map": "/r3f-old-tv/static/js/787.6c309f8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58574854.css",
+    "static/js/main.95ca2c0d.js"
+  ]
+}
